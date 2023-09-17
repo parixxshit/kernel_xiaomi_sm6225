@@ -2,6 +2,7 @@
 #
 # Compile script for topaz Kernel
 # Copyright (C) 2020-2021 Adithya R.
+# sudo apt update && sudo apt install flex
 
 SECONDS=0 # builtin bash timer
 ZIPNAME="topaz-$(date '+%Y%m%d-%H%M').zip"
